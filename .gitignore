@@ -2,4 +2,4 @@
 /vendor/
 /vendor_prefixed/
 coverage/
-
+.idea/
